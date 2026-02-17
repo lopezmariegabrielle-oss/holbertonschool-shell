@@ -1,3 +1,2 @@
 #!/bin/bash
-ut :
 chown --from=guillaume vincent hello
