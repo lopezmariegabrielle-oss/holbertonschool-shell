@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Alice" | tr 'Ac' 'Ze'
+cat | tr 'Ac' 'Ze'
