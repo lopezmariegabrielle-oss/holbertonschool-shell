@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "abc" | rev
+cat | rev
